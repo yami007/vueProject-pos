@@ -18,7 +18,7 @@
         <div>统计</div>
       </li>
       <li>
-        <i class="icon iconfont icon-wodezichan"></i>
+        <i class="icon iconfont icon-gongnengjianyi"></i>
         <div>设置</div>
       </li>
     </ul>
